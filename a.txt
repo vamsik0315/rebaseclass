@@ -5,7 +5,6 @@ Hello a second line in master branch
 
 Hello a third line in newbranch
 Hello a fourth line edited in newbranch
-<<<<<<< HEAD
 
 Hello a file 
 Hello a second line
@@ -14,6 +13,4 @@ Added third line in master branch
 added fourth line in master branch
 
 a file added third line in master branch
-=======
-~
->>>>>>> f01360b... a.txt file edited in fouth line in newbranch
+
