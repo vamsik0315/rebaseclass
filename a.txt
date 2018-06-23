@@ -1,9 +1,13 @@
+<<<<<<< HEAD
 New line added for testing hard reset`
 
+=======
+>>>>>>> 77d7318... a.txt file edited third line in newbranch
 Hello a first file in master branch
 Hello a second line in master branch
 
 Hello a third line in newbranch
+<<<<<<< HEAD
 Hello a fourth line edited in newbranch
 <<<<<<< HEAD
 
@@ -15,3 +19,5 @@ added fourth line in master branch
 
 a file added third line in master branch
 
+=======
+>>>>>>> 77d7318... a.txt file edited third line in newbranch
