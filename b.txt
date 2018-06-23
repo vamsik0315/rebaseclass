@@ -1,1 +1,2 @@
 Hello b file
+New line added in new branch
