@@ -1,2 +1,4 @@
-Hello a file 
-Hello a second line
+Hello a first file in master branch
+Hello a second line in master branch
+
+Hello a third line in newbranch
