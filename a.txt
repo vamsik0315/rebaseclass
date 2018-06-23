@@ -9,5 +9,6 @@ Hello a file
 Hello a second line
 
 Added third line in master branch
+added fourth line in master branch
 
 a file added third line in master branch
