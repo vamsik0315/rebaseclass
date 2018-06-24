@@ -5,6 +5,7 @@ Hello a second line in master branch
 
 Hello a third line in newbranch
 Hello a fourth line edited in newbranch
+<<<<<<< HEAD
 
 Hello a file 
 Hello a second line
