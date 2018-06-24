@@ -1,1 +1,3 @@
 Hello b file edited in first line  in master
+
+Hello b file edited in second line in master branch
