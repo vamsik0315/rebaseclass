@@ -1,0 +1,2 @@
+Hello b file
+ first line in master
